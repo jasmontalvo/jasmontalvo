@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @jasmontalvo
 - 👀 I’m interested in data science and artificial intelligence. 
-- 🌱 I’m currently learning data science at Regis University. I am actually have a non-STEM background so I am still learning my way around coding and data science. 
+- 🌱 I’m currently learning data science at Regis University using Python. I actually have a non-STEM background so I am still learning my way around the coding and data science world. 
 - 💞️ I’m not looking to collaborate on anything at this time since I am still a beginning coder! 
 - 📫 How to reach me: through email or GitHub. 
 
